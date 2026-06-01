@@ -3,6 +3,7 @@
 An Agentic AI Platform for Embedded Hardware Bring-Up
 (Starting with Device Tree Generation)
 
+
 📌 Overview
 ADTG (Agentic Device Tree Generator) is an AI-powered platform designed to revolutionize embedded hardware bring-up by automating one of its most complex and time-consuming tasks — Device Tree generation.
 Built with an agentic AI architecture, ADTG transforms manual, knowledge-heavy workflows into intelligent, automated pipelines.
